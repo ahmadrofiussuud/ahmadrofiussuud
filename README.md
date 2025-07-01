@@ -1,5 +1,3 @@
-## Hi Rofi 👋
-
 ![github-header-image (7)](https://github.com/user-attachments/assets/1ef06192-6f8e-4898-84b8-ff22799ce633)
 
 <!--
