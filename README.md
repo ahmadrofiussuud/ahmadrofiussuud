@@ -1,5 +1,6 @@
 ## Hi Rofi 👋
-![ahmad rofi](Uploading github-header-image (7).png…)
+
+![github-header-image (7)](https://github.com/user-attachments/assets/1ef06192-6f8e-4898-84b8-ff22799ce633)
 
 <!--
 **ahmadrofiussuud/ahmadrofiussuud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
