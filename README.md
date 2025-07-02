@@ -4,6 +4,13 @@
 #### About Me
 I’m Muhammad Ahmad Rofi'us su'ud, an undergraduate student at Universitas Brawijaya majoring in **Educational Technology in Information Technology**. I’m passionate about web development and enjoy creating clean, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**. As someone who studies both technology and education, I’m driven to build tools that are not only functional but also meaningful for learning. I'm continuously exploring new technologies and always open to collaboration and creative challenges.
 
+- 🔭 I’m currently working on TEMANUMKMKITA
+- 🌱 I’m currently learning PHP, MySQL, and also Java
+- 👯 I’m looking to collaborate on anything related to frontend development
+- 🤔 I’m looking for help with improving my learning on MySQL
+- 💬 Ask me about Web Basics and Sports
+- 😄 Pronouns: Rofi for new friend, Opik for bestfriend
+- ⚡ Fun fact:  I enjoy playing futsal in my free time — it helps me stay active and refreshed!
 ---
 
 ##### Lanuage and Skills
@@ -11,6 +18,7 @@ I’m Muhammad Ahmad Rofi'us su'ud, an undergraduate student at Universitas Braw
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />	<img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
+---
 
 ##### Connect With Me
 
