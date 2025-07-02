@@ -4,6 +4,8 @@
 #### About Me
 I’m Muhammad Ahmad Rofi'us su'ud, an undergraduate student at Universitas Brawijaya majoring in **Educational Technology in Information Technology**. I’m passionate about web development and enjoy creating clean, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**. As someone who studies both technology and education, I’m driven to build tools that are not only functional but also meaningful for learning. I'm continuously exploring new technologies and always open to collaboration and creative challenges.
 
+---
+
 ##### Lanuage and Skills
 
 
